@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Whats For Luch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_whats_for_lunch_home">WhatsForLunchHome</string>
+    <string name="where_button">Where should I eat?</string>
+    <string name="restaurant">You will be eating:</string>
+
+</resources>
