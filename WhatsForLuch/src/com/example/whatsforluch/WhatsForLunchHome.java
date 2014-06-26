@@ -63,7 +63,7 @@ public class WhatsForLunchHome extends Activity implements OnClickListener {
 		
 		whereButton.setBackgroundResource(R.drawable.buttonbgfocus);
 		whereButton.setText("Okay, thats enough.");
-		whereButton.setEnabled(false);
+		//whereButton.setEnabled(false);
 
 		int theRandom = (int) (Math.random()*restaurants.length);
 		theRestaurant.setText(restaurants[theRandom]);
